@@ -71,9 +71,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                <mainClass>com.paymentchain.billingapp.Application</mainClass>
-                <configuration>
             </plugin>
 
             <!-- Maven Compiler Plugin -->
